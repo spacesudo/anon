@@ -1,0 +1,8 @@
+.env
+bot/.env
+bot/__pycache__
+bot/*.db
+*.db
+bot/test.py
+bot/tt.py
+venv/
